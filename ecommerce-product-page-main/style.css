@@ -7,14 +7,12 @@
     height: 100vh;
     display: flex;
     justify-content: center;
-    /* background-color: brown; */
     align-items: center;
 }
 
 .content{
     width: 90%;
     height: 90%;
-    /* background-color: aliceblue; */
     padding: 10px;
     display: flex;
     flex-direction: column;
